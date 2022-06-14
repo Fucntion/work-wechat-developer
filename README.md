@@ -7,7 +7,7 @@
 ## 安装
 
 ```bash
-composer require midi/work-wechat
+composer require qingclouds/work-wechat-developer
 ```
 #### [验证URL有效性](https://developer.work.weixin.qq.com/document/path/90238#%E9%AA%8C%E8%AF%81url%E6%9C%89%E6%95%88%E6%80%A7)
 ```php
