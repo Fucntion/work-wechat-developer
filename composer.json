@@ -1,5 +1,5 @@
 {
-    "name": "midi/work-wechat",
+    "name": "function/work-wechat-developer",
     "description": "企业微信php-sdk",
     "type": "library",
     "keywords": [
@@ -27,8 +27,8 @@
     },
     "authors": [
         {
-            "name": "hum",
-            "email": "madril1130@gmail.com"
+            "name": "Fucntion",
+            "email": "a159qaz951zaq@gmail.com"
         }
     ],
     "minimum-stability": "RC"
